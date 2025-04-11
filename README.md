@@ -1,8 +1,9 @@
 # my_music_app
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot 2025-04-10 145121](https://github.com/user-attachments/assets/4c820c1f-742d-407b-bd5b-778b8b17db76)
+
+
 
 This project is a starting point for a Flutter application.
 
